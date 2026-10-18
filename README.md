@@ -1,5 +1,5 @@
 **Airgng**
-Aplikasi hasil klonung Airbnb, dibuat dengan Flutter, REST API Node.js, dan database MySQL. Merupakan Proyek UTS dari mata kuliah Pemrograman Aplikasi Bergerak, Program Studi Sistem Informasi, Tahun 2026
+Aplikasi hasil kloning Airbnb, dibuat dengan Flutter, REST API Node.js, dan database MySQL. Merupakan Proyek UTS dari mata kuliah Pemrograman Aplikasi Bergerak, Program Studi Sistem Informasi, Tahun 2026
 
 **Aplikasi yang ditiru**
 Aplikasi asli : Airbnb
@@ -7,9 +7,9 @@ Nama Plesetan : Airgng
 
 **Anggota Kelompok**
 NO |          Nama             |     NIM     |                    Bagian yang Dikerjakan
-1.   DWIKA WIJAYA ARDANA       | 24051214161 | Screen (Jelajahi & Pesan), REST API Node.js dan Database MySQL
+1.   FAIRUS SYA'BANI           | 24051214151 | Screen (Pemesanan Kamar)
 2.   MUHAMMAD DAFFA RIZQI      | 24051214152 | Screen (Favorit & Profil)
-3.   FAIRUS SYA'BANI           | 24051214151 | Screen (Pemesanan Kamar)
+3.   DWIKA WIJAYA ARDANA       | 24051214161 | Screen (Jelajahi & Pesan), REST API Node.js dan Database MySQL
 4.   MAHARDINI AUDYA SEPTIANI  | 24051214166 | Screen (Onboarding, Login & Daftar)
 5.   HERDINA AGNES PITALOKA    | 24051214174 | Screen (Detail Kamar & Perjalanan)
 
