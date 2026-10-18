@@ -23,7 +23,7 @@ NO |          Nama             |     NIM     |                    Bagian yang Di
   Akan menghasilkan 9 tabel (pengguna, penginapan, penginapan_gambar, ulasan, layanan, destinasi, favorit, pemesanan, percakapan) dan 8 data penginapan contoh.
 
 2. Jalankan Backend
-   cd backend
+   cd airgng-backend
    npm install
    npm run dev
    1. Jika MySQL memakai password, isi DB_PASSWORD di file .env. XAMPP bawaan memakai user root tanpa password.
