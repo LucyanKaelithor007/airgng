@@ -41,3 +41,13 @@ NO |          Nama             |     NIM     |                    Bagian yang Di
    3. Tekan tombol love di sebuah kamar, lalu buka tab Favorit.
    4. Buka salah satu kamar, tekan Pesan, selesaikan pembayaran simulasi, lalu cek tab Perjalanan.
    5. Untuk keluar, buka tab Profil lalu Keluar.
+
+   **IDE yang digunakan**
+   1. Visual Studio Code
+
+   **AI yang Digunakan**
+   1. ChatGPT
+   2. Gemini
+   3. AntiGravity
+   4. Perplexity
+   5. Claude
